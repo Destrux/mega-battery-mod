@@ -1,8 +1,8 @@
 {
   "type": "battery",
-  "name": "Mega Baterry",
+  "name": "Battery XL",
   "size": 6,
-	"description": "Just a big battery.",
+	"description": "A larger battery (XL)",
   "health": 2000,
   "canOverdrive": true,
   "category": "power",
