@@ -1,18 +1,23 @@
 {
-  "type": "battery",
+  "type": "Battery",
   "name": "Battery XL",
+  "description": "A larger battery (XL)",
   "size": 6,
-	"description": "A larger battery (XL)",
   "health": 2000,
-  "canOverdrive": true,
-  "category": "power",
-  "BuildVisibility": "shown",
-  "consumes": {
-    "powerBuffered": "250000.0"
-	},
+  "destructible": false,
+  "rebuildable": true,
+  "targetable": false,
+  "craftTime": 25,
   "requirements": [
     { "item": "phase-fabric", "amount": "50" },
     { "item": "graphite", "amount": "100" },
     { "item": "titanium", "amount": "75" }
-  ]
+  ],
+  "category": "power",
+  "research": {
+    parent: core-shard,
+    requirements: [
+      copper/0
+    ]
+  }
 }
