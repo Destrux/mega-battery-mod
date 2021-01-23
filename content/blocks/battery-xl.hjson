@@ -15,7 +15,7 @@
   ],
   "category": "power",
   "research": {
-    parent: Battery,
+    // parent: Battery,
     requirements: [
       graphite/1000,
       titanium/1000
