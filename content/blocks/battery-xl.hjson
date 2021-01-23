@@ -14,12 +14,13 @@
     { "item": "titanium", "amount": "75" }
   ],
   "category": "power",
-  "research": {
-    // parent: Battery,
+ /* "research": {
+    parent: Battery,
     requirements: [
       graphite/1000,
       titanium/1000
       phase-fabric/50
     ]
   }
+  */
 }
