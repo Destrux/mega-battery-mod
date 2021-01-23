@@ -13,11 +13,5 @@
     { "item": "graphite", "amount": "100" },
     { "item": "titanium", "amount": "75" }
   ],
-  "category": "power",
-  "research": {
-    parent: core-shard,
-    requirements: [
-      copper/0
-    ]
-  }
+  "category": "power"
 }
