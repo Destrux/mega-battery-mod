@@ -1,7 +1,7 @@
 name: "more-batteries"
 displayName: "More Batteries"
 author: "Destrux"
-description: "This is a mod adding (one right now) more powerful batteries"
+description: "This is a mod adding multiple tiers of more powerful batteries"
 version: "1.0"
 minGameVersion: "123.1"
 dependencies: [ ]
